@@ -11,7 +11,7 @@ Conversion is printed in large text.
 If unit is missing or conversion amount too small, Cooking Calculator will issue a warning.
 
 
-This project was built with Java and JavaFX. 
+This project was built with Java, JavaFX, and CSS. 
 
 ## AUTHOR
 Kate Grant
