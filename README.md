@@ -7,8 +7,8 @@ Desktop cooking conversion calculator for use with common kitchen measurements (
 3. Press "Convert".
 
 ![Example: Java Cooking Conversion Calculator Usage](images/cc-usage.jpg)
-Conversion is returned printed in large text.
-If unit is missing, or conversion amount too small, Cooking Calculator will issue a warning.
+Conversion is printed in large text.
+If unit is missing or conversion amount too small, Cooking Calculator will issue a warning.
 
 
 This project was built with Java and JavaFX. 
