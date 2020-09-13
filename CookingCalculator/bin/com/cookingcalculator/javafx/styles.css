@@ -1,0 +1,33 @@
+.root {
+	-fx-background-color: #f55151;
+	-fx-font-family: 'Helvetica', 'Arial';
+	-fx-font-size: 24px;
+	-fx-padding: 30px;
+}
+
+.label {
+	-fx-text-fill: white;	
+}
+
+#btn {
+	-fx-background-color: #fa9393;
+	-fx-margin: 0px 0px 20px 0px;
+	-fx-text-fill: white;
+}
+
+#mb1, #mb2 {
+	-fx-background-color: #fa9393;
+}
+
+.menu-item .label {
+	-fx-text-fill: black;
+}
+
+#answer {
+	-fx-font-size: 48px;
+}
+
+#warning {
+	-fx-font-size: 14px;
+}
+
