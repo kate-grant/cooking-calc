@@ -1,2 +1,2 @@
-# cooking-calc
+# Cooking Calculator
 Desktop cooking conversion calculator
